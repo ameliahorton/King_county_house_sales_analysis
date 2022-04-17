@@ -40,7 +40,9 @@ In addition, both scatter plots and bar graphs shows that there’s an increase 
 
 ![Bathrooms vs. Price](output_data/Bathrooms vs. Price.png)
 
-The “bedrooms vs. price” and “bathrooms vs. price” scatter plots show the majority of sold houses with prices that ranges from $75,000 to $4 million. As the amount of bedrooms increase from 0 to 6 in and bathrooms increase from 0 to 5, the majority of sold houses have prices that are costlier/ close to $4 million, but as the amount of bedrooms and bathrooms increase, the majority of sold houses aren’t as expensive as those with less than 6 bedrooms or less than 5 bathrooms since the majority of those sold houses that have more than 6 bedrooms or more than 5 bathrooms have lower prices that aren’t as close to $4 million. Also, the outliers of 11 and 33 bedrooms sold at $520,000 and $640,000 emphasizes that not all houses with many bedrooms have a high price since these 2 sold houses have the most bedrooms in this dataset, but they weren’t sold at the highest price. 
+The majority of sold houses with prices that ranges from $75,000 to $4 million. As the amount of bedrooms increase from 0 to 6 in and bathrooms increase from 0 to 5, the majority of sold houses have prices that are costlier/ close to $4 million, but as the amount of bedrooms and bathrooms increase, the majority of sold houses aren’t as expensive as those with less than 6 bedrooms or less than 5 bathrooms since the majority of those sold houses that have more than 6 bedrooms or more than 5 bathrooms have lower prices that aren’t as close to $4 million. 
+
+Also, the outliers of 11 and 33 bedrooms sold at $520,000 and $640,000 emphasizes that not all houses with many bedrooms have a high price since these 2 sold houses have the most bedrooms in this dataset, but they weren’t sold at the highest price. 
 
 
 ## Sqft_living
