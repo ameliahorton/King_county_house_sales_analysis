@@ -38,11 +38,11 @@ In addition, both scatter plots and bar graphs shows that there’s an increase 
 
 The “bedrooms vs. price” scatter plot shows the majority of sold houses with 0 to 10 bedrooms have prices that ranges from $75,000 to $4 million. As the amount of bedrooms increase from 0 to 6, the majority of sold houses have prices that are costlier/ close to $4 million, but as the amount of bedrooms increase, the majority of sold houses aren’t as expensive as those with less than 6 bedrooms since the majority of those sold houses that have more than 6 bedrooms have lower prices that aren’t as close to $4 million. Also, the outliers of 11 and 33 bedrooms sold at $520,000 and $640,000 emphasizes that not all houses with many bedrooms have a high price since these 2 sold houses have the most bedrooms in this dataset, but they weren’t sold at the highest price. 
 
-![Bedrooms vs. Price](output_data/Bedrooms vs. Price.png)
+ ![Bedrooms vs. Price](output_data/Bedrooms vs. Price.png)
 
 Base on the “bathrooms vs. price” scatter plot, the data seems to be scattered. The majority of sold houses with 0 to 8 bathrooms have prices that ranges from $75,000 to $4 million. As the amount of bathrooms increase from 0 to 5, the majority of sold houses have prices that are costlier/ close to $4 million, but as the amount of bathrooms continue to increase, the majority of sold houses aren’t as expensive as those with less than 5 bathrooms since the majority of those sold houses that have more than 5 bathrooms have lower prices that aren’t as close to $4 million. 
 
-![Bathrooms vs. Price](output_data/Bathrooms vs. Price.png)
+ ![Bathrooms vs. Price](output_data/Bathrooms vs. Price.png)
 
 
 ## Sqft_living
