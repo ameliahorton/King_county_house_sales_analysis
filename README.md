@@ -70,11 +70,13 @@ According to the plots below, newly built homes do not cost more than older home
 
 ![Year Renovated vs. Price](output_data/yearrenovatedvsprice.png)
 
-Neighborhoods with newest houses
+### Neighborhoods with newest houses
+
 Central Seattle Area:
 98103 Greenlake
 98115 Ravenna/Maple Leaf
 98144 Atlantic/Mt. Baker
+
 A bit further out:
 98040 Mercer Island
 98056 Renton
