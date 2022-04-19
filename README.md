@@ -68,3 +68,23 @@ Boxplot: Waterfront(Non-waterfront) vs. Price shows median, upper quartile, lowe
 ## Year house was built
 
 ### Do newly built homes cost more than older built homes and where/ which zipcodes are the majority of the newly built homes located at?
+
+According to the plots below, newly built homes do not cost more than older homes in general. However there seems to be a stronger correlation between price and home if it has been renovated. This could be due to fewer data points in the year renovated plot (only 4.2% of the homes have been renovated).
+
+![Year Built vs. Price](output_data/yearbuiltvsprice.png)
+
+![Year Renovated vs. Price](output_data/yearrenovatedvsprice.png)
+
+### Neighborhoods with newest houses
+
+Central Seattle Area:
+*98103 Greenlake
+*98115 Ravenna/Maple Leaf
+*98144 Atlantic/Mt. Baker
+
+A bit further out:
+*98040 Mercer Island
+*98056 Renton
+
+![Map of Newest Homes](output_data/topsixnewhouses.png)
+
