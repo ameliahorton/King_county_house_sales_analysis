@@ -34,7 +34,7 @@ The average amount of bedrooms and bathrooms is 3 bedrooms and 2.11 bathrooms. T
 
 Price is higher for houses with more bedrooms or bathrooms, but only to a certain extent as shown in the scatter plots: “Bedrooms vs. Price” and “Bathrooms vs. Price” and bar graphs: “Average Price by Bedrooms Bar Graph” and “Average Price by Bathrooms Bar Graph” and as indicated by the r-squared value which describes the correlation between the bedrooms and price and bathrooms and price. Since the r-squared value for bedrooms and price is 0.308, there’s a weak correlation between the amount of bedrooms and price. On the other hand, since the r-squared value for bathrooms and price is 0.525, there’s a moderate correlation between the amount of bathrooms and price.
 
-![Bedrooms vs. Price](output_data/Bedrooms%20vs.%20 Price.png)
+![Bedrooms vs. Price](output_data/Bedrooms%20vs.%20Price.png)
 
 In addition, both scatter plots and bar graphs show that there’s an increase in price up to a certain amount of bedrooms or bathrooms, however after that certain amount of bedrooms or bathrooms is reached, the majority of houses sold have prices that are less than those houses with less bedrooms or bathrooms.
 
