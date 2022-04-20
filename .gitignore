@@ -132,3 +132,5 @@ dmypy.json
 .DS_Store
 desktop.ini
 api_keys.py
+
+config.py
