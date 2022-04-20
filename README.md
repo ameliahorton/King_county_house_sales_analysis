@@ -15,7 +15,7 @@ Do house features have an effect on the price of house sales?
 
 
 ## House Features
-*	Bathrooms & bedrooms
+*	Bedrooms & bathrooms
 *	Sq_ft living
 *	Zipcode
 *	Waterfront view
@@ -38,9 +38,9 @@ Since the r-squared value for bedrooms and price is 0.308, there’s a weak corr
 
 ![Bedrooms vs. Price](output_data/Bedrooms%20vs.%20Price.png)
 
-![Bathrooms vs. Price](output_data/Bathrooms%20vs.%20Price.png)
-
 On the other hand, since the r-squared value for bathrooms and price is 0.525, there’s a moderate correlation between the amount of bathrooms and price.
+
+![Bathrooms vs. Price](output_data/Bathrooms%20vs.%20Price.png)
 
 
 ## Sqft_living
