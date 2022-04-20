@@ -61,7 +61,9 @@ Also, the outliers of 11 and 33 bedrooms sold at $520,000 and $640,000 emphasize
 Within the same living square footage range, price is higher for houses having waterfront view than non-waterfront view. King county's house dataset showed houses with the same bedrooms, waterfront view properties are definately having higher price point than non-waterfront. 
 
 Barchart: waterfront vs nonwf price shows price comparision within same living square footage which waterfront is higher.
+
 Scatterchart: Waterfront Bedrooms vs. Prices clearly shows for houses having the same bedrooms, prices are higher for those having waterfront view.
+
 Boxplot: Waterfront(Non-waterfront) vs. Price shows median, upper quartile, lower quartile, upper extreme and lower extreme for both waterfront and non-waterfront houses.
 
 
