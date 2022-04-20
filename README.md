@@ -65,6 +65,7 @@ Barchart: waterfront vs nonwf price shows price comparision within same living s
 Scatterchart: Waterfront Bedrooms vs. Prices clearly shows for houses having the same bedrooms, prices are higher for those having waterfront view.
 
 Boxplot: Waterfront(Non-waterfront) vs. Price shows median, upper quartile, lower quartile, upper extreme and lower extreme for both waterfront and non-waterfront houses.
+![ Waterfront(Non-waterfront) vs  Price boxplot](https://user-images.githubusercontent.com/100645924/164123777-04189a10-2539-4b5f-88f2-028469361489.png)
 
 
 ## Year house was built
