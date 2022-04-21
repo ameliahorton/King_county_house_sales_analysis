@@ -15,7 +15,7 @@ Do house features have an effect on the price of house sales?
 
 
 ## House Features
-*	Bedrooms & bathrooms
+*	Bathrooms & bedrooms
 *	Sq_ft living
 *	Zipcode
 *	Waterfront view
@@ -28,19 +28,21 @@ House features do have an effect on the price of house sales.
 
 ## Bedrooms & Bathrooms
 
-The average amount of bedrooms and bathrooms is 3 bedrooms and 2.11 bathrooms.
+The average amount of bedrooms and bathrooms is 3 bedrooms and 2.11 bathrooms. The “Amount of Bathrooms” histogram shows the highest amount of sold houses have 3 bedrooms while the “Amount of Bathrooms” histogram shows the highest amount of sold houses have 2.5 bathrooms. Based on the average and mode of bedrooms and bathrooms, this can mean that a majority of sold houses have 3 bedrooms and 2 to 2.5 bathrooms.
 
 ### Is the price higher when there are more bedrooms or bathrooms?
 
-Price is higher for houses with more bedrooms or bathrooms, but only to a certain extent as shown in the scatter plots: “Bedrooms vs. Price” and “Bathrooms vs. Price” and bar graphs: “Average Price by Bedrooms Bar Graph” and “Average Price by Bathrooms Bar Graph” and as indicated by the r-squared value, which describes the correlation between the bedrooms and price and bathrooms and price. 
-
-Since the r-squared value for bedrooms and price is 0.308, there’s a weak correlation between the amount of bedrooms and price. Also, the outliers of 11 and 33 bedrooms sold at $520,000 and $640,000 emphasizes that not all houses with many bedrooms have a high price since these 2 sold houses have the most bedrooms in this dataset, but they weren’t sold at the highest price. 
+Price is higher for houses with more bedrooms or bathrooms, but only to a certain extent as shown in the scatter plots: “Bedrooms vs. Price” and “Bathrooms vs. Price” and bar graphs: “Average Price by Bedrooms Bar Graph” and “Average Price by Bathrooms Bar Graph” and as indicated by the r-squared value which describes the correlation between the bedrooms and price and bathrooms and price. Since the r-squared value for bedrooms and price is 0.308, there’s a weak correlation between the amount of bedrooms and price. On the other hand, since the r-squared value for bathrooms and price is 0.525, there’s a moderate correlation between the amount of bathrooms and price.
 
 ![Bedrooms vs. Price](output_data/Bedrooms%20vs.%20Price.png)
 
-On the other hand, since the r-squared value for bathrooms and price is 0.525, there’s a moderate correlation between the amount of bathrooms and price.
+In addition, both scatter plots and bar graphs show that there’s an increase in price up to a certain amount of bedrooms or bathrooms, however after that certain amount of bedrooms or bathrooms is reached, the majority of houses sold have prices that are less than those houses with less bedrooms or bathrooms.
 
 ![Bathrooms vs. Price](output_data/Bathrooms%20vs.%20Price.png)
+
+The majority of sold houses have prices that range from $75,000 to $4 million. As the amount of bedrooms increase from 0 to 6 in and bathrooms increase from 0 to 5, the majority of sold houses have prices that are costlier/ close to $4 million, but as the amount of bedrooms and bathrooms increase, the majority of sold houses aren’t as expensive as those with less than 6 bedrooms or less than 5 bathrooms since the majority of those sold houses that have more than 6 bedrooms or more than 5 bathrooms have lower prices that aren’t as close to $4 million.
+
+Also, the outliers of 11 and 33 bedrooms sold at $520,000 and $640,000 emphasizes that not all houses with many bedrooms have a high price since these 2 sold houses have the most bedrooms in this dataset, but they weren’t sold at the highest price. 
 
 
 ## Sqft_living
@@ -59,8 +61,11 @@ On the other hand, since the r-squared value for bathrooms and price is 0.525, t
 Within the same living square footage range, price is higher for houses having waterfront view than non-waterfront view. King county's house dataset showed houses with the same bedrooms, waterfront view properties are definately having higher price point than non-waterfront. 
 
 Barchart: waterfront vs nonwf price shows price comparision within same living square footage which waterfront is higher.
+
 Scatterchart: Waterfront Bedrooms vs. Prices clearly shows for houses having the same bedrooms, prices are higher for those having waterfront view.
+
 Boxplot: Waterfront(Non-waterfront) vs. Price shows median, upper quartile, lower quartile, upper extreme and lower extreme for both waterfront and non-waterfront houses.
+![ Waterfront(Non-waterfront) vs  Price boxplot](https://user-images.githubusercontent.com/100645924/164123777-04189a10-2539-4b5f-88f2-028469361489.png)
 
 
 ## Year house was built
