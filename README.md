@@ -64,7 +64,7 @@ Scatterchart: Waterfront Bedrooms vs. Prices clearly shows for houses having the
 
 Boxplot: Waterfront(Non-waterfront) vs. Price shows median, upper quartile, lower quartile, upper extreme and lower extreme for both waterfront and non-waterfront houses.
 
-![Waterfront(Non-waterfront) vs. Price Boxplot](output_data/Waterfront(Non-waterfront)%20vs.%20Price boxplot.png)
+![ Waterfront(Non-waterfront) vs  Price boxplot](https://user-images.githubusercontent.com/100645924/164571054-b790abab-b7f1-405a-9878-e80b6b42defa.png)
 
 
 ## Year house was built
