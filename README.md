@@ -67,6 +67,7 @@ Boxplot: Waterfront(Non-waterfront) vs. Price shows median, upper quartile, lowe
 ![ Waterfront(Non-waterfront) vs  Price boxplot](https://user-images.githubusercontent.com/100645924/164571054-b790abab-b7f1-405a-9878-e80b6b42defa.png)
 
 
+
 ## Year house was built
 
 ### Do newly built homes cost more than older built homes and where/ which zipcodes are the majority of the newly built homes located at?
