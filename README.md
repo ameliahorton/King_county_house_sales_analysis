@@ -54,7 +54,7 @@ The data shows that there is a strong positive correlation between the square fo
 ## Zipcode
 
 ### Are house sale prices higher in higher income neighborhoods?
-
+In general, there is little correlation between house price and household income. Lower home prices exist in every neighborhood, and higher ones are scattered throughout. One thing I did notice is that very high income zips have a slightly greater spread in home prices, between 0 and 3 million, while lower income zips mostly have homes between 0 and 1 million. The highest home price in the whole dataset is in a middle-income zip. The top ten most expensive homes usually exist in zips with higher average home prices, but not always. I noticed that these ten homes are only in six different zip codes, meaning that many of those zips contain multiple of the top ten homes. This does show some concentration of expensive houses in certain areas, but other expensive homes are in areas with lower average prices.
 
 ## Waterfront view
 
