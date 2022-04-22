@@ -48,7 +48,7 @@ On the other hand, since the r-squared value for bathrooms and price is 0.525, t
 ### What’s the correlation between sqft_living and pricing? 
 
 The data shows that there is a strong positive correlation between the square footage of a home and its price. As homes increase in square feet, the house price increases. 
-![Square Footage vs. Price](output_data/Square_Footage%20vs.%20Price.png)
+![Square Footage vs. Price](output_data/Square%20Footage%20vs.%20Price.png)
 
 
 ## Zipcode
