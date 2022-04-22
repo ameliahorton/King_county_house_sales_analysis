@@ -47,7 +47,10 @@ Also, the outliers of 11 and 33 bedrooms sold at $520,000 and $640,000 emphasize
 
 ## Sqft_living
 
-### What’s the correlation between sqft_living and pricing and do larger sqft_living greater than 6,000 sqft with a waterfront view cost more or less than those without a waterfront view?
+### What’s the correlation between sqft_living and pricing? 
+
+The data shows that there is a strong positive correlation between the square footage of a home and its price. As homes increase in square feet, the house price increases. 
+![Square Footage vs. Price](output_data/Square_Footage%20vs.%20Price.png)
 
 
 ## Zipcode
@@ -67,6 +70,11 @@ Scatterchart: Waterfront Bedrooms vs. Prices clearly shows for houses having the
 Boxplot: Waterfront(Non-waterfront) vs. Price shows median, upper quartile, lower quartile, upper extreme and lower extreme for both waterfront and non-waterfront houses.
 ![ Waterfront(Non-waterfront) vs  Price boxplot](https://user-images.githubusercontent.com/100645924/164123777-04189a10-2539-4b5f-88f2-028469361489.png)
 
+### Do larger sqft_living greater than 6,000 sqft with a waterfront view cost more or less than those without a waterfront view?
+
+For houses over 6,000 sqft, there is a significant difference in price. On average, these larger houses with a waterfront cost about 2.5 million dollars more than those without a waterfront. 
+
+![Average Prices of Homes Greater than 6,000 sqft with and without Waterfronts vs. Price](output_data/Average%20Prices%20of%20Homes%20Greater%20than%206,000%20sqft%20with%20and%20without%20Waterfronts.png)
 
 ## Year house was built
 
