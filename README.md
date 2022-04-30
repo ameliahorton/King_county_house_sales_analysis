@@ -1,7 +1,7 @@
 # House Sales in King County, USA
 
 ## Project Description
-The House Sales in King County, USA dataset from Kaggle contains house sale prices for King County, which includes Seattle from May 2014 to May 2015. It will be used to determine if certain house features have an effect on the price of house sales.
+The House Sales in King County, USA dataset from [Kaggle](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) contains house sale prices for King County, which includes Seattle from May 2014 to May 2015. It will be used to determine if certain house features have an effect on the price of house sales.
  
 ![house](images/house.png)
 
